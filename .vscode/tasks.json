@@ -15,9 +15,14 @@
             "group": {
                 "_id": "build",
                 "isDefault": false ,
-                "added"."newfile": true
+                "added" : "newfile": true
             
             }
         }
     ]
 }
+{
+    "attribute": "// numeroConta",
+    "operator": "=",
+    "value": "0030152201"
+  }
