@@ -14,8 +14,9 @@
             "problemMatcher": "$msCompile",
             "group": {
                 "_id": "build",
-                "isDefault": false
-                "added new file"
+                "isDefault": false ,
+                "added"."newfile": true
+            
             }
         }
     ]
