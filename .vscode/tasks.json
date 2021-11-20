@@ -14,15 +14,12 @@
             "problemMatcher": "$msCompile",
             "group": {
                 "_id": "build",
-                "isDefault": false ,
-                "added" : "newfile": true
+                {"is:"isDefault": false,Default": false},
             
             }
-        }
+        
     ]
 }
-{
-    "attribute": "// numeroConta",
-    "operator": "=",
-    "value": "0030152201"
-  }
+
+    added":"newfile" ,"isDeafault": true
+]
